@@ -19,6 +19,9 @@ USTPCD是一个通过移动激光扫描（Mobile Laser Scanning, MLS）技术采
 - **格式**：  
   - 原始LiDAR点云帧（由于博主使用python读取数据，所以原始数据为`.npy`格式，如图所示1-6列数据分别表示x，y，z，）。  
  
+如需下载数据集，请访问我们的百度网盘链接：  
+[点击此处从百度网盘下载 USTPCD 数据集](https://pan.baidu.com/s/your_shared_link)  
+
 
 ---
 
