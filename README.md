@@ -14,9 +14,9 @@ USTPCD是一个通过移动激光扫描（Mobile Laser Scanning, MLS）技术采
 - **来源**：使用车载MLS系统在中国南京的城市街道上采集。  
 - **内容**：  
   - 如图 City roda 第一张所示的是数据集采集地鸟瞰图，采集地为南京市奥体中心附件的街道场景。第二张为点云采集设备工作场景，使用阿克曼小车搭载激光雷达匀速采集行道树点云。
-![LiDAR 可视化](PC/City_road.png)
+![LiDAR 可视化](Tree_seg_dataset/PC/City_road.png)
   - 如图 Point Cloud 图中灰色部分为非行道树点，每棵行道树点云都赋值了唯一的实例标签。可视化结果供您参考。
-![LiDAR 可视化](PC/Point_Cloud.png)
+![LiDAR 可视化](Tree_seg_dataset/PC/Point_Cloud.png)
   - 149棵高度（3.58m–7.20m）和冠幅（2.94m–8.46m）各异的街道树木。  
   - 包含建筑物、车辆、行人、交通标志和其他植被的复杂城市场景。  
   - 街道树木的像素级和点级实例分割标注掩码。  
